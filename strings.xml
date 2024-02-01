@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">JobVengers</string>
+    <string name="login_now">Login Now</string>
+    <string name="already_have_account">Already Have Account?</string>
+    <string name="where_careers_meet_their_endgame">Where Careers Meet Their Endgame!</string>
+    <string name="Name">Enter Your Name</string>
+    <string name="Email">Enter Your Email</string>
+    <string name="Password">Enter Your Password</string>
+    <string name="Company_Email">Enter Company Email</string>
+    <string name="Company_Name">Enter Company Name</string>
+    <string name="field_of_interest">Field of Interest</string>
+    <string name="Phone_No">Enter Phone Number</string>
+    <string name="create_job">CREATE JOB</string>
+    <string name="Field">Field</string>
+    <string name="Designation">Designation</string>
+    <string name="Experience">Experience</string>
+    <string name="Location">Location</string>
+    <string name="Salary">Salary</string>
+    <string name="job_description">Job Description</string>
+    <string name="job_details">JOB DETAILS</string>
+    <string name="jobdescription">Job Description</string>
+    <string name="apply_job">APPLY JOB</string>
+    <string name="email">Email</string>
+    <string name="phoneno">PhoneNo</string>
+    <string name="expectedsalary">ExpectedSalary</string>
+</resources>
